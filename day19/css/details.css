@@ -1,0 +1,32 @@
+.my_font_1{
+	font-size:12px;
+	color:#000;
+}
+.breadcrumb-item+.breadcrumb-item::before{
+	content: '>';
+}
+.my_img{width:20%;}
+.my_top{
+	margin-top:-1rem;
+}
+.font1{font-size:14px;}
+.w-10{width:8%;}
+.my_btn{
+	width:3rem;height: 3rem;
+	border:0;
+	outline:0;
+	color:#000;
+	font-weight:bold;
+	background-color: #dee2e6;
+	border-radius: 0.2rem;
+}
+.my_gou{
+	width:8rem;height: 3rem;
+	background-color: #0aa1ed;
+	line-height: 3rem;
+}
+.my_gou1{
+	width:3rem;height: 3rem;
+	background-color: #0aa1ed;
+	/* line-height: 3rem; */
+}
